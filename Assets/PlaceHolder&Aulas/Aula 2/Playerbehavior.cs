@@ -7,6 +7,7 @@ public class Playerbehavior : MonoBehaviour
     [SerializeField] private float StandartSpeed;
     [SerializeField] private float StandartJump;
     Rigidbody2D rb;
+  
     // Start is called before the first frame update
     void Start()
     {
@@ -16,15 +17,6 @@ public class Playerbehavior : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
-        if(Input.GetKeyDown(KeyCode.Space))
-        {
-            StandartJump = 5;
-        }
-        else
-        {
-            StandartJump = 0;
-        }
-         rb.velocity = new Vector2(Input.GetAxis("Horizontal")* StandartSpeed,StandartJump);
+            rb.velocity = new Vector2(Input.GetAxis("Horizontal")* StandartSpeed, Input.GetAxis("Vertical") * StandartSpeed);
     }
 }
