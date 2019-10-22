@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/PlaceHolder&Aulas/Aula 1/Aula1.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/PlaceHolder&Aulas/Aula 7/Inicio.unity
+    guid: 56e78862f92ffef4cbbf7217ffe9f93e
+  - enabled: 1
+    path: Assets/PlaceHolder&Aulas/Aula 7/Fim.unity
+    guid: 76afbbcd14f06eb4d9b5f9ab64630d83
   m_configObjects: {}
