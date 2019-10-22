@@ -5,10 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class ThiefBehavior : MonoBehaviour
 {
-    [SerializeField] private bool value;
+    public bool value;
     [SerializeField] private GameObject buttono;
     void Start()
     {
+        print(SceneManager.sceneCount);
         DontDestroyOnLoad(this.gameObject);
         if(SceneManager.sceneCount == 0)
         {
@@ -18,6 +19,9 @@ public class ThiefBehavior : MonoBehaviour
 
     void Update()
     {
-        value = buttono.GetComponent<ButtonBehavior>().varivavel;
+        if (SceneManager.sceneCount == 1)
+        {
+            value = buttono.GetComponent<ButtonBehavior>().varivavel;
+        }
     }
 }
