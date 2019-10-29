@@ -1,0 +1,1843 @@
+fileFormatVersion: 2
+guid: c3153a67795838b42bd368a3dcaeb3c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5974123990675970685
+    second: adventurer-Sheet  invertido_0
+  - first:
+      213: 6642627589213354571
+    second: adventurer-Sheet  invertido_1
+  - first:
+      213: -805120005516600055
+    second: adventurer-Sheet  invertido_2
+  - first:
+      213: 5195765744544968901
+    second: adventurer-Sheet  invertido_3
+  - first:
+      213: 100828394294543579
+    second: adventurer-Sheet  invertido_4
+  - first:
+      213: -5845137738265940094
+    second: adventurer-Sheet  invertido_5
+  - first:
+      213: 4737783852058268170
+    second: adventurer-Sheet  invertido_6
+  - first:
+      213: 5409545376323616847
+    second: adventurer-Sheet  invertido_7
+  - first:
+      213: -3017934420188207729
+    second: adventurer-Sheet  invertido_8
+  - first:
+      213: 3463107683805083242
+    second: adventurer-Sheet  invertido_9
+  - first:
+      213: -7303616419459153317
+    second: adventurer-Sheet  invertido_10
+  - first:
+      213: 7752267499231205806
+    second: adventurer-Sheet  invertido_11
+  - first:
+      213: -4343123775498418935
+    second: adventurer-Sheet  invertido_12
+  - first:
+      213: 5266434369265409221
+    second: adventurer-Sheet  invertido_13
+  - first:
+      213: -2506260718610375224
+    second: adventurer-Sheet  invertido_14
+  - first:
+      213: 5242956451916202626
+    second: adventurer-Sheet  invertido_15
+  - first:
+      213: 587762457078172585
+    second: adventurer-Sheet  invertido_16
+  - first:
+      213: 1930943004062821279
+    second: adventurer-Sheet  invertido_17
+  - first:
+      213: -6532343049912371279
+    second: adventurer-Sheet  invertido_18
+  - first:
+      213: -6834875321214710548
+    second: adventurer-Sheet  invertido_19
+  - first:
+      213: 3292252858279251204
+    second: adventurer-Sheet  invertido_20
+  - first:
+      213: 1743480941677997534
+    second: adventurer-Sheet  invertido_21
+  - first:
+      213: 6092029957750135238
+    second: adventurer-Sheet  invertido_22
+  - first:
+      213: -2774334312783576151
+    second: adventurer-Sheet  invertido_23
+  - first:
+      213: -6459746928713905466
+    second: adventurer-Sheet  invertido_24
+  - first:
+      213: 2681679148503607693
+    second: adventurer-Sheet  invertido_25
+  - first:
+      213: -7740764100492717772
+    second: adventurer-Sheet  invertido_26
+  - first:
+      213: -419979464241196921
+    second: adventurer-Sheet  invertido_27
+  - first:
+      213: 8979848698832355521
+    second: adventurer-Sheet  invertido_28
+  - first:
+      213: -9004031644756857406
+    second: adventurer-Sheet  invertido_29
+  - first:
+      213: -2724551993191337574
+    second: adventurer-Sheet  invertido_30
+  - first:
+      213: -8229064416134367632
+    second: adventurer-Sheet  invertido_31
+  - first:
+      213: -6751395563410703314
+    second: adventurer-Sheet  invertido_32
+  - first:
+      213: 700102016224567825
+    second: adventurer-Sheet  invertido_33
+  - first:
+      213: -4080701211142898058
+    second: adventurer-Sheet  invertido_34
+  - first:
+      213: -7018407858874288822
+    second: adventurer-Sheet  invertido_35
+  - first:
+      213: -3460949194937740428
+    second: adventurer-Sheet  invertido_36
+  - first:
+      213: 912626488913935706
+    second: adventurer-Sheet  invertido_37
+  - first:
+      213: 5442593839536245248
+    second: adventurer-Sheet  invertido_38
+  - first:
+      213: 6964984237657085971
+    second: adventurer-Sheet  invertido_39
+  - first:
+      213: -3683831891891231042
+    second: adventurer-Sheet  invertido_40
+  - first:
+      213: 5392902482314096817
+    second: adventurer-Sheet  invertido_41
+  - first:
+      213: 2732109135750677591
+    second: adventurer-Sheet  invertido_42
+  - first:
+      213: 2736784740484574230
+    second: adventurer-Sheet  invertido_43
+  - first:
+      213: 8637074315407563644
+    second: adventurer-Sheet  invertido_44
+  - first:
+      213: 7988300693604861110
+    second: adventurer-Sheet  invertido_45
+  - first:
+      213: -1400928941139903509
+    second: adventurer-Sheet  invertido_46
+  - first:
+      213: -5547045265241166149
+    second: adventurer-Sheet  invertido_47
+  - first:
+      213: 1346355818938226049
+    second: adventurer-Sheet  invertido_48
+  - first:
+      213: -6738379302149565314
+    second: adventurer-Sheet  invertido_49
+  - first:
+      213: -5559695438233229543
+    second: adventurer-Sheet  invertido_50
+  - first:
+      213: -301553077134142966
+    second: adventurer-Sheet  invertido_51
+  - first:
+      213: 6880035947271522181
+    second: adventurer-Sheet  invertido_52
+  - first:
+      213: 880754865001715977
+    second: adventurer-Sheet  invertido_53
+  - first:
+      213: 8911678880385802675
+    second: adventurer-Sheet  invertido_54
+  - first:
+      213: 7928430238974106123
+    second: adventurer-Sheet  invertido_55
+  - first:
+      213: -3735415820080688938
+    second: adventurer-Sheet  invertido_56
+  - first:
+      213: 4809849541942740471
+    second: adventurer-Sheet  invertido_57
+  - first:
+      213: -5002633695606935704
+    second: adventurer-Sheet  invertido_58
+  - first:
+      213: -8336053977601511881
+    second: adventurer-Sheet  invertido_59
+  - first:
+      213: -5441911882588915206
+    second: adventurer-Sheet  invertido_60
+  - first:
+      213: -3794078965332043630
+    second: adventurer-Sheet  invertido_61
+  - first:
+      213: 5963813398675481452
+    second: adventurer-Sheet  invertido_62
+  - first:
+      213: 107504458305888115
+    second: adventurer-Sheet  invertido_63
+  - first:
+      213: -8302448391178006467
+    second: adventurer-Sheet  invertido_64
+  - first:
+      213: -6944650961742011335
+    second: adventurer-Sheet  invertido_65
+  - first:
+      213: -6214414433816073365
+    second: adventurer-Sheet  invertido_66
+  - first:
+      213: -5479045963019898449
+    second: adventurer-Sheet  invertido_67
+  - first:
+      213: -4820226055894462204
+    second: adventurer-Sheet  invertido_68
+  - first:
+      213: 163731081780749517
+    second: adventurer-Sheet  invertido_69
+  - first:
+      213: -2918746929585370901
+    second: adventurer-Sheet  invertido_70
+  - first:
+      213: 1499711097911932896
+    second: adventurer-Sheet  invertido_71
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 371
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858fca96226d8524b903e7958a1318e3
+      internalID: 5974123990675970685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 371
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd4838086e3609408e23c34c0876ab7
+      internalID: 6642627589213354571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 371
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75262e73964e42945a3d53e0bf8c90e1
+      internalID: -805120005516600055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 371
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fe16fc002de45459f5f57693091745
+      internalID: 5195765744544968901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 371
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791542d88f2cacf43adcd5104f3c208d
+      internalID: 100828394294543579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 371
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c65592659c3b04dbbfe78a7b68b95e
+      internalID: -5845137738265940094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 371
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce206d712102c643a433c83d1e59200
+      internalID: 4737783852058268170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 334
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42da86c1dd5db8a4c849c201851eeea6
+      internalID: 5409545376323616847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 334
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74447a9b2ce28de419190b3bd289002a
+      internalID: -3017934420188207729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 334
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252ec39e36c27fb449c49f9fbd054c8a
+      internalID: 3463107683805083242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 334
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e52966fdebc104b8dc497868123b79
+      internalID: -7303616419459153317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 334
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1271a178913724287a74cecc1a8ba4
+      internalID: 7752267499231205806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314684f26d8226b408b75f57ac2ae83b
+      internalID: -4343123775498418935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_13
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 334
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa0e6f6111866442b75c7fe4599dfd1
+      internalID: 5266434369265409221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 303
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1695534d88558ab4d9c1ebbabde57865
+      internalID: -2506260718610375224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 306
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78a5f21f13073342b73528d66adad78
+      internalID: 5242956451916202626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 305
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5bbe94a2c15344c91d15c1fd73ab82
+      internalID: 587762457078172585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 305
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d874a48d2c3444ab6587bf30ad3010
+      internalID: 1930943004062821279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 299
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8dcbb59969b5c4cb530149018eb4c2
+      internalID: -6532343049912371279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 297
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d27b13f444ea543aa9ca638bc05ed4
+      internalID: -6834875321214710548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_20
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 297
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2c2b8a1d7c613448e2a4a1f1ecef7c
+      internalID: 3292252858279251204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 260
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abf2d5411160fb4dadccef9e4c7c70f
+      internalID: 1743480941677997534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_22
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 260
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cd79095b1c61f45b856358abe4de41
+      internalID: 6092029957750135238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 260
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de39c3c4cd009047af552de67a9451d
+      internalID: -2774334312783576151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_24
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 260
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a77a9c8eb29db4dbc38c0d7e206dcd
+      internalID: -6459746928713905466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_25
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 264
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bd15626d4d29d41bdbf24cde304a4d
+      internalID: 2681679148503607693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_26
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 264
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6eee95c621303459207de2d2854bf0
+      internalID: -7740764100492717772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_27
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 266
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15dce9f50edf0f49a8494ab80d1e937
+      internalID: -419979464241196921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 226
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c41a78b9cc4edd43acc57ae930dd6a8
+      internalID: 8979848698832355521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 224
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7200046c8a6ea54b8f95dfb366444b1
+      internalID: -9004031644756857406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_30
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 222
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42d47253d777fc4b96087c2173bb28f
+      internalID: -2724551993191337574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 222
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514b31d2c0cb85d47b259ad388410794
+      internalID: -8229064416134367632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_32
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 222
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c805805d392b28b49bfbc913623b1949
+      internalID: -6751395563410703314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_33
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 222
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ff11c49ad5b414b9810c2c5c832453
+      internalID: 700102016224567825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_34
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 223
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e663e2174193d428d3d31befb91242
+      internalID: -4080701211142898058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 186
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1177f66a5286ed04d8a7ad324cfbafd7
+      internalID: -7018407858874288822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 186
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fece6f1f1993ece459606975ecafc881
+      internalID: -3460949194937740428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_37
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 186
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65ca9be22453ac40b0169da2622f845
+      internalID: 912626488913935706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_38
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 186
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec16ac5058e40a49afb5d8c5d62cf0e
+      internalID: 5442593839536245248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 192
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb86732eccb9c6429a9495ae83b0d0b
+      internalID: 6964984237657085971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 192
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc816306433e9c448d6d9f5e710c7df
+      internalID: -3683831891891231042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_41
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 190
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6867595b1a6a7d24c84a1b2aa61ba0eb
+      internalID: 5392902482314096817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 149
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626c08053ef39fd4592a9583d4f7a6a0
+      internalID: 2732109135750677591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_43
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 149
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fcb0556913a4d4b97f7b38f6e924bb
+      internalID: 2736784740484574230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_44
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 149
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc894543ee195e34c93b1afdeacf830a
+      internalID: 8637074315407563644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_45
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 149
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3bf7c52b5f6f54d8a2a669c8f23082
+      internalID: 7988300693604861110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 149
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d757edba10a7c645ab852cb08638a49
+      internalID: -1400928941139903509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 149
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea27e3ec3a522d448ec4057e0311728
+      internalID: -5547045265241166149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_48
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 149
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fcde89f633e6d428398417afc5d595
+      internalID: 1346355818938226049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b43b9f7130ef5f42b159859a34f6052
+      internalID: -6738379302149565314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_50
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 112
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a3b6ecde49c1b40af6ee65f27d49cb
+      internalID: -5559695438233229543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 112
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67bf03c81fecf446878e1fdda242ceb
+      internalID: -301553077134142966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_52
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 112
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ccc0b02699acc4aad6bddcda8b3907
+      internalID: 6880035947271522181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_53
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 112
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797ec7a07dbf1984b8be3d94e3f5956c
+      internalID: 880754865001715977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_54
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 112
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c9fafa52930b64da28eef10a3ce7d6
+      internalID: 8911678880385802675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_55
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 112
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06f203c18cdc274ba3d830fcf8715d2
+      internalID: 7928430238974106123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 75
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6164d61a2c0e0647bbcf258c2a76d5e
+      internalID: -3735415820080688938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_57
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 75
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628f20dfe444c61428d6953e3d760887
+      internalID: 4809849541942740471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_58
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 75
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3feb760e249a0724a95ef4aae720d57e
+      internalID: -5002633695606935704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 75
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004bc0482b5ddc943aadb21dbfe5823b
+      internalID: -8336053977601511881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_60
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 75
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afa36852b20855439acfc9690226745
+      internalID: -5441911882588915206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_61
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 75
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc867ec79667a2f4999171f17c4f0ced
+      internalID: -3794078965332043630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_62
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 75
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c48b70062c6b0499a03f032f430eed
+      internalID: 5963813398675481452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_63
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 38
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0098f1d77d1dcfe4d98d3a7cafafb917
+      internalID: 107504458305888115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_64
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 38
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8b4c52b38a8f64f82617c069b4dea8
+      internalID: -8302448391178006467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_65
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 38
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8f6425fd5640e42ae7261c98a33ec5
+      internalID: -6944650961742011335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_66
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 38
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de17235f9a4fe414f8139b2a1fcb1e31
+      internalID: -6214414433816073365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_67
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 38
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807b800211b4cad40bb8c8da2fc7761b
+      internalID: -5479045963019898449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_68
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 38
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83247b27ed6df7a42bc3d83cac16a8c4
+      internalID: -4820226055894462204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_69
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 38
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983a22de31b0116469ce7e91be173726
+      internalID: 163731081780749517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_70
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0742c1aaf9486c94a94b26926b1da183
+      internalID: -2918746929585370901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adventurer-Sheet  invertido_71
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713a53e6ac4938048ba0d3c021c7d71e
+      internalID: 1499711097911932896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
